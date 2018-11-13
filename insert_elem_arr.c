@@ -17,7 +17,7 @@ temp=a[i+1];
 }
 for(i=0;i<10;i++)
 {
-printf("\n %d",arr[i])
+printf("\n %d",arr[i]);
 }
 return 0;
 }
