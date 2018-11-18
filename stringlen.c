@@ -4,6 +4,7 @@ void main()
 {
 char a[100];
 int i,len=0;
+printf("Enter The String");
 scanf("%[^\n]",a);
 for(int i=0;a[i]!='\0';i++)
 {
