@@ -24,7 +24,7 @@ HCF(a,b-a);
 }
 else
 { 
-return x;
+return a;
 }
 
 }
