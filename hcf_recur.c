@@ -20,7 +20,7 @@ HCF(a-b,b);
 }
 else if(a<b)
 {
-HCF(a.b-a);
+HCF(a,b-a);
 }
 else
 { 
